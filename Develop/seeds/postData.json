@@ -1,14 +1,20 @@
 [
   {
-    "name": "Post #1",
-    "content": "A mobile app that will send you notifications whenever a concert is playing in your area."
+    "post_title": "Getting Started with Node.js",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae arcu eget urna aliquam consequat. Suspendisse potenti. Sed vel purus arcu. Curabitur ullamcorper, nulla id maximus fringilla, justo neque pellentesque tortor, nec consequat velit turpis sed erat. Proin ac varius ligula.",
+    "date_created": "2023-06-01",
+    "user_id": 1
   },
   {
-    "name": "Post #2",
-    "content": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!"
+    "post_title": "Introduction to React",
+    "content": "Praesent consectetur justo felis, vel viverra dui efficitur eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed non felis nisl. Donec pellentesque finibus feugiat. Fusce aliquam ipsum ut turpis tincidunt tincidunt.",
+    "date_created": "2023-06-05",
+    "user_id": 2
   },
   {
-    "name": "Post #3",
-    "content": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes."
+    "post_title": "CSS Tips and Tricks",
+    "content": "Curabitur tempus urna ut orci interdum, eget eleifend nunc venenatis. Aliquam ut dictum nulla. Nulla vestibulum erat in tortor volutpat facilisis. Integer vitae gravida purus, eget varius felis. Sed vel sollicitudin enim, ac tincidunt odio.",
+    "date_created": "2023-06-10",
+    "user_id": 3
   }
 ]
